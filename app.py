@@ -3,7 +3,7 @@ import smtplib
 from email.message import EmailMessage
 
 # SafeRoute System UI
-st.title("🚖 SafeRoute Emergency Reporting System")
+st.title("🚖 SafeRoute System")
 
 # Hardcoded Receiver Emails (Editable)
 default_receivers = "siddhantpatil1543@gmail.com, siddhantpatil1540@gmail.com, maitreyeeb2004@gmail.com"
